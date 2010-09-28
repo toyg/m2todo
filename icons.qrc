@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icons/freemind.png</file>
+    <file>icons/help-contents.png</file>
+    <file>icons/help-about.png</file>
+    <file>icons/application-exit.png</file>
+    <file>icons/basket.png</file>
+    <file>icons/merge.png</file>
+    <file>icons/document-save.png</file>
+    <file>icons/document-save-as.png</file>
+    <file>icons/document-edit.png</file>
+    <file>icons/document-new.png</file>
+  </qresource>
+</RCC>
