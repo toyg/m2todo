@@ -23,7 +23,7 @@ previously-generated .M2T, do the following:
 Installation and Requirements
 =============================
 
-Reuirements
+Requirements
 -----------
 
 M2Todo requires PyQt and Python.
