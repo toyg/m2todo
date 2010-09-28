@@ -21,8 +21,17 @@ merged output.
 
 4. Save the result as a new M2T or, more often, overwriting the existing one.
 
+Installation and Requirements
+=============================
+
+Reuirements
+-----------
+
+M2Todo requires PyQt and Python.
+It was tested only with PyQt 4.7 and Python 2.6.
+
 Installation
-============
+------------
 
 Get all the files and then run::
 	python m2todo.py

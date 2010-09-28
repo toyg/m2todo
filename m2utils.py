@@ -1,21 +1,16 @@
 # -*- coding: utf-8 -*-
 # /
-#  m2utils.py - utilities for M2Todo
-#  Copyright (c) 2007 Giacomo Lacava - g.lacava@gmail.com
-# 
-#  This program is free software; you can redistribute it and/or
-#  modify it under the terms of the GNU General Public License
-#  as published by the Free Software Foundation; either version 3
-#  of the License, or any later version.
-# 
-#  This program is distributed in the hope that it will be useful,
-#  but WITHOUT ANY WARRANTY; without even the implied warranty of
-#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#  GNU General Public License for more details.
-# 
-#  You should have received a copy of the GNU General Public License
-#  along with this program; if not, write to the Free Software
-#  Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+# mu2utils.py - part of M2Todo
+# Copyright (c) 2010 Giacomo Lacava - g.lacava@gmail.com
+#
+# Licensed under the European Union Public License, Version 1.1.
+# You may not use this work except in compliance with the Licence.
+# You may obtain a copy of the Licence at http://ec.europa.eu/idabc/eupl5
+# Unless required by applicable law or agreed to in writing, software distributed 
+# under the Licence is distributed on an "AS IS" basis, WITHOUT WARRANTIES OR 
+# CONDITIONS OF ANY KIND, either express or implied.
+# See the Licence for the specific language governing permissions and limitations 
+# under the Licence.
 # /
 
 
