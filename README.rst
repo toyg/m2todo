@@ -33,6 +33,7 @@ Installation
 ------------
 
 Get all the files and then run::
+
 	python m2todo.py
 
 Credits
