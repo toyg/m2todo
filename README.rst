@@ -16,8 +16,7 @@ previously-generated .M2T, do the following:
 
 2. Click on Merge (Tools -> Merge)
 
-3. Select the M2T you previously worked on. The view will change to show the 
-merged output. 
+3. Select the M2T you previously worked on. The view will change to show the merged output. 
 
 4. Save the result as a new M2T or, more often, overwriting the existing one.
 
