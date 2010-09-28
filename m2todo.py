@@ -349,7 +349,7 @@ class M2Todo(QApplication):
 
     @pyqtSlot()
     def about(self):
-        template = "%(name)s v. %(version)s \n\n%(name)s is copyright @ "\
+        template = "%(name)s v. %(version)s \n\n%(name)s is copyright @ " + \
             "%(year)s %(author)s\n\n" + \
             "This program is free software; you can redistribute it and/or " + \
             "modify it under the terms of the GNU General Public License " + \
